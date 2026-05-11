@@ -1,12 +1,12 @@
-# 💫 About Me:
-Hey, I’m Proto 👋  
-I’ve been coding for around 5 years now. The first language I learned was Python, and I instantly loved how creative programming could be. Since then I’ve expanded into multiple languages and frameworks while working on random projects, tools, websites, and game-related stuff.  
+#  About Me:
+Hey, I’m Proto   
+I have been coding for around 5 years now when i only ever got a pc bc i really had a thing for game dev and coding <3 i love C++ and html my top two favs
 
-I enjoy learning new tech, building cool things, and just vibe coding whenever I get free time.
+I have alot more stuff made other then tos tracker its just the repos are pravite as of rn <3
 
 ---
 
-# 💻 Tech Stack:
+#  Tech Stack:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -18,15 +18,3 @@ I enjoy learning new tech, building cool things, and just vibe coding whenever I
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PROTOGENFLUFFYGRAPE&show_icons=true&theme=midnight-purple&hide_border=false)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=PROTOGENFLUFFYGRAPE&theme=midnight-purple&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PROTOGENFLUFFYGRAPE&theme=midnight-purple&hide_border=false&layout=compact)
-
----
